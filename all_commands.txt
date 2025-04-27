@@ -1,0 +1,1000 @@
+ 1001  python manage.py runserver 0.0.0.0:5000
+ 1002  wget https://go.microsoft.com/fwlink?linkid=2149051 -O microsoft-edge-stable.deb
+ 1003  sudo dpkg -i microsoft-edge-stable.deb
+ 1004  sudo apt install -f
+ 1005  microsoft-edge
+ 1006  psql -U postgres -h localhost
+ 1007  clear
+ 1008  psql -U postgres -h localhost -d one_rhd_db -f /home/shagor/Downloads/one_rhd_db_2025_03_06_12_00.psql 
+ 1009  exit
+ 1010  history
+ 1011  exit 
+ 1012  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1013  source venv/bin/activate
+ 1014  code .
+ 1015  python manage.py runserver 0.0.0.0:5000
+ 1016  clear\
+ 1017  clear 
+ 1018  python manage.py runserver 0.0.0.0:5000
+ 1019  clear
+ 1020  python manage.py runserver 0.0.0.0:5000
+ 1021  zoom
+ 1022  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1023  source venv/bin/activate
+ 1024  code .
+ 1025  python manage.py runserver 0.0.0.0:5000
+ 1026  clear
+ 1027  python manage.py runserver 0.0.0.0:5000
+ 1028  clear
+ 1029  python manage.py runserver 0.0.0.0:5000
+ 1030  clear
+ 1031  python manage.py runserver 0.0.0.0:5000
+ 1032  clear
+ 1033  python manage.py runserver 0.0.0.0:5000
+ 1034  git add .
+ 1035  git commit -m "office_hierarchy_ordering"
+ 1036  git push 
+ 1037  git checkout main 
+ 1038  git pull
+ 1039  git checkout shagor 
+ 1040  git merge main 
+ 1041  git push 
+ 1042  exit
+ 1043  python manage.py migrate 
+ 1044  exit
+ 1045  source venv/bin/activate
+ 1046  code .
+ 1047  python manage.py runserver 0.0.0.0:5000
+ 1048  clear
+ 1049  python manage.py runserver 0.0.0.0:5000
+ 1050  clear
+ 1051  python manage.py runserver 0.0.0.0:5000
+ 1052  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1053  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1054  git add .
+ 1055  git commit -m "Office hierarchy dynamic"
+ 1056  git push 
+ 1057  git checkout main 
+ 1058  git pull
+ 1059  git checkout shagor 
+ 1060  git merge main 
+ 1061  git push 
+ 1062  exit 
+ 1063  python manage.py migrate
+ 1064  exit
+ 1065  git add .
+ 1066  git commit -m "Office hierarchy dynamic"
+ 1067  git push 
+ 1068  exit
+ 1069  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1070  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1071  source venv/bin/activate
+ 1072  code .
+ 1073  python manage.py runserver 0.0.0.0:5000
+ 1074  code .
+ 1075  python manage.py runserver 0.0.0.0:5000
+ 1076  git checkout main 
+ 1077  git pull 
+ 1078  git checkout shagor 
+ 1079  git merge main 
+ 1080  git push 
+ 1081  exit
+ 1082  python manage.py migrate 
+ 1083  exit 
+ 1084  psql -U postgres -h localhost
+ 1085  psql -U postgres -h localhost -d one_rhd_db -f /home/shagor/Downloads/one_rhd_db_2025_03_08_12_00.psql 
+ 1086  exit
+ 1087  history
+ 1088  history 
+ 1089  exit
+ 1090  python manage.py migrate 
+ 1091  exit
+ 1092  git add .
+ 1093  git commit -m "office hierarchy"
+ 1094  git push 
+ 1095  exit
+ 1096  git add .
+ 1097  git commit -m "change office hierarchy"
+ 1098  git push 
+ 1099  git checkout main 
+ 1100  git pull
+ 1101  git checkout shagor 
+ 1102  git merge main 
+ 1103  git push
+ 1104  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1105  source venv/bin/activate
+ 1106  code .
+ 1107  python manage.py runserver 0.0.0.0:5000
+ 1108  code .
+ 1109  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1110  git checkout main && git pull && git checkout shagor && git merge main && git push 
+ 1111  git status 
+ 1112  git branch 
+ 1113  exit
+ 1114  git add .
+ 1115  git commit -m "employee details show "
+ 1116  git push 
+ 1117  exit
+ 1118  git add .
+ 1119  git commit -m " add css"
+ 1120  git push 
+ 1121  git checkout main
+ 1122  git pull
+ 1123  git checkout shagor
+ 1124  git merge main 
+ 1125  git push 
+ 1126  exit
+ 1127  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1128  git add .
+ 1129  git commit -m "create jobposition link "
+ 1130  git push 
+ 1131  git checkout main
+ 1132  git pull
+ 1133  git checkout shagor 
+ 1134  git merge main 
+ 1135  git push 
+ 1136  exit 
+ 1137  git add .
+ 1138  git commit -m " add css"
+ 1139  git push 
+ 1140  source venv/bin/activate
+ 1141  code 
+ 1142  code .
+ 1143  python manage.py runserver 0.0.0.0:5000
+ 1144  code .
+ 1145  python manage.py runserver 0.0.0.0:5000
+ 1146  git checkout main 
+ 1147  git pull
+ 1148  git checkout shagor
+ 1149  git merge main 
+ 1150  git push 
+ 1151  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1152  ps aux
+ 1153  exit
+ 1154  psql -U postgres -h localhost
+ 1155  psql -U postgres -h localhost -d one_dphe_db -f /home/shagor/Downloads/one_dphe_db_2025_03_15_10_15.psql 
+ 1156  exit
+ 1157  history
+ 1158  exit
+ 1159  git add .
+ 1160  git commit -m "order sequencly"
+ 1161  git push
+ 1162  exit
+ 1163  git branch
+ 1164  git add .
+ 1165  git commit -m "order "
+ 1166  git push 
+ 1167  exit
+ 1168  history
+ 1169  exit
+ 1170  git add .
+ 1171  git commit -m "employeement record create "
+ 1172  git push 
+ 1173  git checkout main 
+ 1174  git pull 
+ 1175  git checkout shagor 
+ 1176  git merge main 
+ 1177  git push 
+ 1178  source venv/bin/activate
+ 1179  code .
+ 1180  python manage.py runserver 0.0.0.0:5000
+ 1181  code .
+ 1182  python manage.py runserver 0.0.0.0:5000
+ 1183  git checkout main 
+ 1184  git pull 
+ 1185  git checkout shagor 
+ 1186  git mergte main 
+ 1187  git push 
+ 1188  exit
+ 1189  git add .
+ 1190  git commit -m "bug fix"
+ 1191  git push 
+ 1192  git checkout main 
+ 1193  git pull 
+ 1194  git chaeckout shagor 
+ 1195  git checkout shagor 
+ 1196  git merge main 
+ 1197  git push 
+ 1198  clear
+ 1199  history
+ 1200  psql -U postgres -h localhost
+ 1201  psql -U postgres -h localhost -d one_rhd_db -f /home/shagor/Downloads/one_rhd_db_2025_03_22_9_56.psql 
+ 1202  exit
+ 1203  git add .
+ 1204  git commit -m "EmployementRecord create in office "
+ 1205  git push 
+ 1206  exit 
+ 1207  git add .
+ 1208  git commit -m "all jobPosition "
+ 1209  git push 
+ 1210  git checkout main 
+ 1211  git pull
+ 1212  git checkout shagor 
+ 1213  git merge main 
+ 1214  git push 
+ 1215  git pull
+ 1216  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1217  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1218  source venv/bin/activate
+ 1219  code .
+ 1220  python manage.py runserver 0.0.0.0:5000
+ 1221  clear
+ 1222  python manage.py runserver 0.0.0.0:5000
+ 1223  git checkout main 
+ 1224  git pull
+ 1225  git checkout shagor 
+ 1226  git merge main 
+ 1227  git push 
+ 1228  exit
+ 1229  git add .
+ 1230  git commit -m "all jobposition api"
+ 1231  git push 
+ 1232  exit
+ 1233  git checkout main 
+ 1234  git pull
+ 1235  git checkout shagor 
+ 1236  git merge main 
+ 1237  git push 
+ 1238  exit
+ 1239  git add .
+ 1240  git commit -m "user show phone number"
+ 1241  exit
+ 1242  git add .
+ 1243  git commit -m "record add designation "
+ 1244  git push 
+ 1245  git add .
+ 1246  git commit -m "fix bug"
+ 1247  git push 
+ 1248  exit
+ 1249  git checkout main 
+ 1250  git pull
+ 1251  git checkout shagor 
+ 1252  git merge main 
+ 1253  git push 
+ 1254  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1255  source venv/bin/activate
+ 1256  code .
+ 1257  python manage.py runserver 0.0.0.0:5000
+ 1258  git checkout main 
+ 1259  git pull
+ 1260  git checkout shagor 
+ 1261  git merge main 
+ 1262  git push 
+ 1263  exit
+ 1264  git add .
+ 1265  git commit -m "order user "
+ 1266  git push 
+ 1267  sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+ 1268  git add .
+ 1269  git commit -m "group  permission in button Project Director"
+ 1270  git push 
+ 1271  exit
+ 1272  git add .
+ 1273  git commit -m "bug fix "
+ 1274  git push 
+ 1275  exit
+ 1276  git add .
+ 1277  git commit -m "bug fix"
+ 1278  git push 
+ 1279  exit
+ 1280  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1281  git add .
+ 1282  git commit -m "Employee show in dropdown "
+ 1283  git push 
+ 1284  exit
+ 1285  git add .
+ 1286  git commit -m "employee dropdown "
+ 1287  git push 
+ 1288  exit
+ 1289  git add 
+ 1290  git add .
+ 1291  git commit -m "bug fix "
+ 1292  git push 
+ 1293  exit
+ 1294  source venv/bin/activate
+ 1295  code .
+ 1296  python manage.py runserver 0.0.0.0:5000
+ 1297  git add .
+ 1298  git commit -m "create user "
+ 1299  git push 
+ 1300  git add .
+ 1301  git commit -m "add font "
+ 1302  git push 
+ 1303  exit
+ 1304  git add .
+ 1305  git commit -m "user order by phone"
+ 1306  git push 
+ 1307  exit
+ 1308  git add .
+ 1309  git commit -m "mail formate change "
+ 1310  git push 
+ 1311  exit
+ 1312  git checkout main 
+ 1313  git pull
+ 1314  git checkout shagor 
+ 1315  git merge main \q
+ 1316  git merge main 
+ 1317  git push 
+ 1318  history
+ 1319  exit
+ 1320  exit
+ 1321  git add .
+ 1322  git commit -m "designation in dropdown bangla "
+ 1323  git push
+ 1324  exit
+ 1325  git add .
+ 1326  git commit -m "user check "
+ 1327  git push 
+ 1328  git checkout main 
+ 1329  git pull 
+ 1330  git merge main 
+ 1331  git checkout shagor 
+ 1332  git merge main 
+ 1333  git push 
+ 1334  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1335  source venv/bin/activate
+ 1336  code .
+ 1337  python manage.py runserver 0.0.0.0:5000
+ 1338  psql -U postgres -h localhost
+ 1339  psql -U postgres -h localhost -d one_rhd_db -f /home/shagor/Downloads/one_rhd_db_2025_03_24_10_18.psql 
+ 1340  python manage.py runserver 0.0.0.0:5000
+ 1341  clear
+ 1342  python manage.py runserver 0.0.0.0:5000
+ 1343  clear
+ 1344  python manage.py runserver 0.0.0.0:5000
+ 1345  git add .
+ 1346  git checkout shagor 
+ 1347  git checkout main
+ 1348  git pull
+ 1349  git checkout shagor
+ 1350  git merge main 
+ 1351  git push 
+ 1352  exit
+ 1353  git add .
+ 1354  git commit -m "JobPOsition create without Phonenumber"
+ 1355  git push 
+ 1356  exit
+ 1357  git add .
+ 1358  git commit -m "reload modal "
+ 1359  git push 
+ 1360  exit
+ 1361  wget https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.6.00.12455_amd64.deb
+ 1362  sudo dpkg -i teams*.deb
+ 1363  git add .
+ 1364  git commit -m "OfficeTreeViewListApi"
+ 1365  git push 
+ 1366  git checkout main 
+ 1367  git pull
+ 1368  git checkout shagor
+ 1369  git mrege main 
+ 1370  git merge main 
+ 1371  git push exit
+ 1372  git push
+ 1373  exit
+ 1374  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1375  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1376  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1377  git add .
+ 1378  git commit -m "OfficeTreeViewAPI"
+ 1379  git push 
+ 1380  git checkout main
+ 1381  git pull
+ 1382  git checkout shagor 
+ 1383  git merge main 
+ 1384  git push 
+ 1385  source venv/bin/activate
+ 1386  code .
+ 1387  python manage.py runserver 0.0.0.0:5000
+ 1388  clear
+ 1389  python manage.py runserver 0.0.0.0:5000
+ 1390  code .
+ 1391  python manage.py runserver 0.0.0.0:5000
+ 1392  git checkout main && git pull && git checkout shagor && git merge main && git push && exit 
+ 1393  git branch 
+ 1394  git merge main 
+ 1395  git push 
+ 1396  exit 
+ 1397  git add .
+ 1398  git commit -m "OfficeTreeViewAPI"
+ 1399  git push 
+ 1400  git checkout main && git pull && git checkout shagor && git merge main && git push && exit 
+ 1401  /media/shagor/tplwork/Shagor/office_project/tiger-one/venv/bin/python
+ 1402  git add .
+ 1403  git commit -m "OfficeTreeViewAPI"
+ 1404  git push 
+ 1405  git checkout main && git pull && git checkout shagor && git merge main && git push && exit 
+ 1406  git add .
+ 1407  git commit -m "bug fix"
+ 1408  git push 
+ 1409  exit
+ 1410  git add .
+ 1411  git commit -m "user & job position create "
+ 1412  exit
+ 1413  git push 
+ 1414  exit
+ 1415  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1416  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1417  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1418  git add .
+ 1419  git commit -m "user all information"
+ 1420  git push 
+ 1421  git checkout main && git pull && git checkout shagor && git merge main && git push && exit 
+ 1422  git status
+ 1423  exit
+ 1424  git status
+ 1425  git add .
+ 1426  git commit -m 'distribution'
+ 1427  git push
+ 1428  git checkout main
+ 1429  git checkout shagor
+ 1430  exit
+ 1431  git add .
+ 1432  git commit -m "employeelist"
+ 1433  git push 
+ 1434  git checkout main && git pull && git checkout shagor && git merge main && git push && exit 
+ 1435  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1436  source venv/bin/activate
+ 1437  code .
+ 1438  python manage.py runserver 0.0.0.0:5000
+ 1439  clear
+ 1440  python manage.py runserver 0.0.0.0:5000
+ 1441  python manage.py migrate
+ 1442  git checkout main && git pull && git checkout shagor && git merge main && git push && exit 
+ 1443  git add .
+ 1444  git commit -m "job position and user not submit"
+ 1445  git push 
+ 1446  exit
+ 1447  git add .
+ 1448  git commit -m "create jobposition buttone permission set"
+ 1449  git push 
+ 1450  exit
+ 1451  git add .
+ 1452  git commit -m "button permition pd, ce "
+ 1453  git push 
+ 1454  exit 
+ 1455  git add .
+ 1456  git commit -m "create job position problem fixt"
+ 1457  git push 
+ 1458  exit 
+ 1459  git add .
+ 1460  git commit -m "create job position problem fixt"
+ 1461  git push 
+ 1462  exit
+ 1463  git add . && git commit -m "user list exclude superuser and staff user"
+ 1464  git push
+ 1465  exit
+ 1466  git add . && git commit -m "job position  user list exclude superuser and staff user" && git push && exit 
+ 1467  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1468  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1469  source venv/bin/activate
+ 1470  code .
+ 1471  python manage.py runserver 0.0.0.0:5000
+ 1472  git checkout main 
+ 1473  git pull
+ 1474  git checout shagor 
+ 1475  git checkout shagor
+ 1476  git merge main 
+ 1477  git push 
+ 1478  exit
+ 1479  git add .
+ 1480  git commit -m "requird jobposition field "
+ 1481  git push 
+ 1482  exit
+ 1483  git status 
+ 1484  git add Core/views/context_processor.py
+ 1485  git commit -m "change massage 'You have not been assigned an employee.Please contact administrator.'"
+ 1486  git status
+ 1487  git add .
+ 1488  git commit -m "requird field "
+ 1489  git push 
+ 1490  exit
+ 1491  git add .
+ 1492  git commit -m "filter user api staf user and super user "
+ 1493  git push 
+ 1494  exit
+ 1495  git add .
+ 1496  git commit -m "human resource "
+ 1497  git push 
+ 1498  exit
+ 1499  source venv/bin/activate
+ 1500  code .
+ 1501  python manage.py runserver 0.0.0.0:5000
+ 1502  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1503  git add .
+ 1504  git commit -m "change css"
+ 1505  git push 
+ 1506  exit
+ 1507  git add .
+ 1508  git commit -m "employee_list api add email field "
+ 1509  git push 
+ 1510  exit
+ 1511  git checkout main 
+ 1512  git pull 
+ 1513  git checkout shagor 
+ 1514  git merge main 
+ 1515  git push 
+ 1516  exit
+ 1517  git add .
+ 1518  git commit -m "Display massage in create user "
+ 1519  git push 
+ 1520  exit
+ 1521  git add .
+ 1522  git commit -m "bug fixt"
+ 1523  git push 
+ 1524  git checkout main 
+ 1525  git pull
+ 1526  git checkout shagor 
+ 1527  git merge main 
+ 1528  git push 
+ 1529  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1530  source venv/bin/activate
+ 1531  code .
+ 1532  python manage.py runserver 0.0.0.0:5000
+ 1533  cclear
+ 1534  clear
+ 1535  make start
+ 1536  make migrations
+ 1537  make migrate
+ 1538  ls
+ 1539  cat Makefile 
+ 1540  make update
+ 1541  cat Makefile 
+ 1542  make start
+ 1543  python manage.py runserver 0.0.0.0:5000
+ 1544  git branch 
+ 1545  git checkout main 
+ 1546  git pull
+ 1547  git checkout shagor 
+ 1548  git merge main 
+ 1549  git push 
+ 1550  exit
+ 1551  git add .
+ 1552  git commit -m "Show error if release amount exceeds allocated budget"
+ 1553  git push
+ 1554  exit
+ 1555  psql -U postgres -h localhost
+ 1556  psql -U postgres -h localhost -d one_rhd_db -f /home/shagor/Downloads/one_rhd_db_2025_04_13_13_02.psql 
+ 1557  exit
+ 1558  history
+ 1559  exit
+ 1560  /media/shagor/tplwork/Shagor/office_project/tiger-one/venv/bin/python
+ 1561  git add .
+ 1562  git commit -m "payment valitation "
+ 1563  git push 
+ 1564  git checkout main 
+ 1565  git pull
+ 1566  git checkout shagor 
+ 1567  git merge main 
+ 1568  git push 
+ 1569  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1570  source venv/bin/activate
+ 1571  code .
+ 1572  python manage.py runserver 0.0.0.0:5000
+ 1573  clear
+ 1574  python manage.py runserver 0.0.0.0:5000
+ 1575  git checkout main 
+ 1576  git pull 
+ 1577  git checkout shagor 
+ 1578  git merge main 
+ 1579  git push 
+ 1580  make migrate
+ 1581  exit
+ 1582  git add .
+ 1583  git commit -m "no change in payment "
+ 1584  git push 
+ 1585  exit
+ 1586  git add .
+ 1587  git commit -m "task permittions create "
+ 1588  git push 
+ 1589  exit 
+ 1590  git add .
+ 1591  git commit -m "task permition add in requestline"
+ 1592  git push 
+ 1593  history
+ 1594  git checkout main && git pull && git checkout shagor && git merge main && git push && exi
+ 1595  git status 
+ 1596  git push 
+ 1597  exit 
+ 1598  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1599  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1600  source venv/bin/activate
+ 1601  code .
+ 1602  python manage.py runserver 0.0.0.0:5000
+ 1603  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1604  git add .
+ 1605  git commit -m "demand request item permisson unrequird "
+ 1606  git push 
+ 1607  exit5
+ 1608  exit
+ 1609  git add .
+ 1610  git commit -m "change text style "
+ 1611  git push 
+ 1612  exit
+ 1613  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1614  git add .
+ 1615  git commit -m "bug fix "
+ 1616  git push 
+ 1617  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1618  git add .
+ 1619  git commit -m "Task permission create"
+ 1620  git push 
+ 1621  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1622  git add .
+ 1623  git commit -m "task pertmitions create all model "
+ 1624  git push 
+ 1625  exit
+ 1626  git add .
+ 1627  git commit -m "Task permission delete "
+ 1628  git push 
+ 1629  git add .
+ 1630  git commit -m "code revert"
+ 1631  git push 
+ 1632  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1633  exit 
+ 1634  help(print)
+ 1635  exit
+ 1636  git add .
+ 1637  git commit -m "window reload "
+ 1638  git push 
+ 1639  exit
+ 1640  psql -U postgres -h localhost
+ 1641  psql -U postgres -h localhost -d one_rhd_db -f /home/shagor/Downloads/one_rhd_db_2025_04_17_12_00.psql 
+ 1642  exit
+ 1643  history
+ 1644  exit
+ 1645  git add .
+ 1646  git commit -m "EmployementRecordRetrieveUpdateAPIView"
+ 1647  git push 
+ 1648  exit 
+ 1649  git add .
+ 1650  git commit -m "Task permisson"
+ 1651  git push 
+ 1652  exit 
+ 1653  git add .
+ 1654  git commit -m "Task permission"
+ 1655  git push 
+ 1656  git add .
+ 1657  git commit -m "TaskPermissionListView"
+ 1658  git push 
+ 1659  exit 
+ 1660  git add .
+ 1661  git commit -m "smart item task permission "
+ 1662  git push 
+ 1663  history
+ 1664  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1665  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1666  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1667  source venv/bin/activate
+ 1668  code .
+ 1669  python manage.py runserver 0.0.0.0:5000
+ 1670  git add .
+ 1671  git commit -m "smart-item-list api"
+ 1672  git push 
+ 1673  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1674  git add .
+ 1675  git commit -m "smart-item task permission"
+ 1676  git push 
+ 1677  exit 
+ 1678  git add .
+ 1679  git commit -m "Delete task permission "
+ 1680  git push 
+ 1681  exit 
+ 1682  git add .
+ 1683  exit 
+ 1684  git add .
+ 1685  git commit -m "demand request create and update page "
+ 1686  git add .
+ 1687  git commit -m "working upload file modal "
+ 1688  git push 
+ 1689  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1690  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1691  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1692  source venv/bin/activate
+ 1693  code .
+ 1694  python manage.py runserver 0.0.0.0:5000
+ 1695  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1696  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1697  git add .
+ 1698  git commit -m "Duplicate employee"
+ 1699  git push 
+ 1700  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1701  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1702  rm -rf ~/.mozilla/firefox/
+ 1703  rm -rf ~/.cache/mozilla/firefox/
+ 1704  rm -rf ~/.mozilla/firefox/
+ 1705  rm -rf ~/.cache/mozilla/firefox/
+ 1706  sudo snap remove firefox
+ 1707  flatpak uninstall org.mozilla.firefox
+ 1708  sudo snap install firefox
+ 1709  rm -rf ~/.config/microsoft-edge/
+ 1710  rm -rf ~/.cache/microsoft-edge/
+ 1711  sudo apt remove microsoft-edge-stable
+ 1712  sudo apt purge microsoft-edge-stable
+ 1713  wget https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_122.0.2365.92-1_amd64.deb
+ 1714  exit
+ 1715  git add .
+ 1716  git commit -m "duplicate employee"
+ 1717  git push 
+ 1718  python manage.py makemigrations
+ 1719  python manage.py migrate 
+ 1720  exit
+ 1721  wget https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_122.0.2365.92-1_amd64.deb
+ 1722  sudo dpkg -i microsoft-edge-stable_122.0.2365.92-1_amd64.deb
+ 1723  sudo apt remove microsoft-edge-stable
+ 1724  sudo apt purge microsoft-edge-stable
+ 1725  sudo apt autoremove
+ 1726  rm -rf ~/.config/microsoft-edge/
+ 1727  rm -rf ~/.cache/microsoft-edge/
+ 1728  microsoft-edge
+ 1729  git add .
+ 1730  git commit -m "employee id uniqu"
+ 1731  git push 
+ 1732  exit
+ 1733  git add .
+ 1734  git commit -m "employee id requird "
+ 1735  git push 
+ 1736  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1737  git push 
+ 1738  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1739  source venv/bin/activate
+ 1740  code .
+ 1741  python manage.py runserver 0.0.0.0:5000
+ 1742  code .
+ 1743  python manage.py runserver 0.0.0.0:5000
+ 1744  code .
+ 1745  python manage.py runserver 0.0.0.0:5000
+ 1746  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1747  psql -U postgres -h localhost
+ 1748  psql -U postgres -h localhost -d one_rhd_db -f /home/shagor/Downloads/one_rhd_db_2025_04_19_16_45.psql 
+ 1749  python manage.py migrate 
+ 1750  exit
+ 1751  history
+ 1752  exit
+ 1753  git add .
+ 1754  git commit -m "start date not input in future date "
+ 1755  git push 
+ 1756  exit 
+ 1757  git add .
+ 1758  git commit -m "remove log "
+ 1759  git push 
+ 1760  exit
+ 1761  source venv/bin/activate
+ 1762  code .
+ 1763  python manage.py runserver 0.0.0.0:5000
+ 1764  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1765  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1766  git add .
+ 1767  git commit -m "date of birth not select future date "
+ 1768  git push 
+ 1769  exit
+ 1770  git add .\
+ 1771  git add .
+ 1772  git commit -m "date of birth not select future date "
+ 1773  git push 
+ 1774  exit
+ 1775  psql -U postgres -h localhost
+ 1776  psql -U postgres -h localhost -d one_rhd_db -f /home/shagor/Downloads/one_rhd_db_2025_04_23_11_45.psql 
+ 1777  exit
+ 1778  history
+ 1779  exit
+ 1780  ls
+ 1781  cd yolo_classifier/
+ 1782  ls
+ 1783  cd ..
+ 1784  source venv/bin/activate
+ 1785  code .
+ 1786  python3.12 -m venv venv
+ 1787  python3 --version 
+ 1788  python3.10 -m venv venv
+ 1789  source venv/bin/activate
+ 1790  django-admin startproject yolo_classifier
+ 1791  cd yolo_classifier
+ 1792  python manage.py startapp classifier
+ 1793  clear
+ 1794  django-admin startproject yolo_classifier
+ 1795  cd yolo_classifier
+ 1796  clear
+ 1797  pip install django 
+ 1798  django-admin startproject yolo_classifier
+ 1799  cd yolo_classifier
+ 1800  python manage.py startapp classifier
+ 1801  ls
+ 1802  pip install django ultralytics pillow
+ 1803  python train_classifier.py
+ 1804  ls
+ 1805  ls
+ 1806  cd yolo_classifier/
+ 1807  ls
+ 1808  python manage.py migrate
+ 1809  python manage.py runser
+ 1810  python manage.py runserver 
+ 1811  ls
+ 1812  cd yolo_classifier/
+ 1813  ls
+ 1814  cd classifier/
+ 1815  ls
+ 1816  python train_classifier.py 
+ 1817  runs/classify/yellow_classifier/weights/best.pt
+ 1818  clear
+ 1819  ls
+ 1820  python train_classifier.py 
+ 1821  cd /media/shagor/tplwork/My_Space/image/yolo_classifier
+ 1822  mkdir -p datasets/yellow_classifier/train/yellow
+ 1823  mkdir -p datasets/yellow_classifier/train/not_yellow
+ 1824  mkdir -p datasets/yellow_classifier/val/yellow
+ 1825  mkdir -p datasets/yellow_classifier/val/not_yellow
+ 1826  pip install icrawler
+ 1827  ls
+ 1828  cd yolo_classifier/
+ 1829  ls
+ 1830  python download.py 
+ 1831  yolo classify train model=yolov8n-cls.pt data=datasets/yellow_classifier epochs=30 imgsz=224
+ 1832  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1833  ls
+ 1834  python manage.py runserver 
+ 1835  python3 manage.py runserver 
+ 1836  ls
+ 1837  source venv/bin/activate
+ 1838  python3 manage.py runserver 
+ 1839  python manage.py runserver 
+ 1840  ls
+ 1841  python3 manage.py runserver 
+ 1842  pip install django 
+ 1843  python3 manage.py runserver 
+ 1844  python manage.py runserver 
+ 1845  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1846  source venv/bin/activate
+ 1847  code .
+ 1848  python manage.py runserver 0.0.0.0:5000
+ 1849  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1850  python manage.py makemigrations 
+ 1851  python manage.py migrate
+ 1852  python manage.py makemigrations 
+ 1853  python manage.py migrate
+ 1854  pip freeze > requirements.txt
+ 1855  ls
+ 1856  git init 
+ 1857  git add README.md
+ 1858  git branch 
+ 1859  git branch
+ 1860  clear 
+ 1861  git config --global init.defaultBranch main
+ 1862  git branch -m master main
+ 1863  git add README.md
+ 1864  git init 
+ 1865  cd ..
+ 1866  ls 
+ 1867  git init 
+ 1868  git add README.md
+ 1869  git config --global init.defaultBranch main
+ 1870  git branch -m master main
+ 1871  git branch
+ 1872  # Create your first commit
+ 1873  git add .
+ 1874  git commit -m "Initial commit"
+ 1875  # Now check your branch name
+ 1876  git branch  # Will likely show 'main' if you've configured Git properly
+ 1877  git add myapi/
+ 1878  git commit -m "initial commit "
+ 1879  git branch 
+ 1880  clear
+ 1881  git add myapi/  # Add your Django project
+ 1882  git add .gitignore  # Add the ignore file
+ 1883  git add requirements.txt  # If you have one
+ 1884  git restore 
+ 1885  git add myapi/
+ 1886  git commit -m "initial commit "
+ 1887  echo "# django-rest-framework" >> README.md
+ 1888  git init
+ 1889  git add README.md
+ 1890  git commit -m "first commit"
+ 1891  git branch -M main
+ 1892  git remote add origin git@github.com:shagorrobidas/django-rest-framework.git
+ 1893  git push -u origin main
+ 1894  git branch 
+ 1895  git add .
+ 1896  git add myapi/
+ 1897  git commit -m "api"
+ 1898  git push 
+ 1899  git rm --cached myapi
+ 1900  rm -rf .git/modules/myapi
+ 1901  git rm --cached myapi
+ 1902  rm -rf .git/modules/myapi
+ 1903  git add myapi/
+ 1904  git rm --cached myapi
+ 1905  cd myapi/
+ 1906  git add .
+ 1907  git commit -m "api project "
+ 1908  git push 
+ 1909  git remote add origin git@github.com:shagorrobidas/django-rest-framework.git
+ 1910  git push 
+ 1911  git push --set-upstream origin main
+ 1912  git pull 
+ 1913  git branch 
+ 1914  git add .
+ 1915  git pull origin main --allow-unrelated-histories
+ 1916  git push origin main
+ 1917  git pull origin main --allow-unrelated-histories
+ 1918  # (conflict এডিট করে ঠিক করলে)
+ 1919  git add .
+ 1920  git commit -m "Merge remote changes"
+ 1921  git push origin main
+ 1922  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1923  mkdir api
+ 1924  cd api/
+ 1925  python --version 
+ 1926  python3 --version 
+ 1927  python3.10 -m venv venv
+ 1928  ls
+ 1929  source venv/bin/activate
+ 1930  pip install django djangorestframework
+ 1931  django-admin startproject myapi
+ 1932  cd myapi/
+ 1933  python manage.py startapp api 
+ 1934  code .
+ 1935  python manage.py makemigrations
+ 1936  python manage.py migrate
+ 1937  python manage.py createsuperuser
+ 1938  python manage.py runserver 
+ 1939  la
+ 1940  cd ..
+ 1941  ls
+ 1942  source venv/bin/activate
+ 1943  cd api
+ 1944  cd myapi/
+ 1945  git init
+ 1946  git add README.md
+ 1947  cd ..
+ 1948  git init 
+ 1949  clear 
+ 1950  echo "# django-rest-framework" >> README.md
+ 1951  git init
+ 1952  git add README.md
+ 1953  git commit -m "first commit"
+ 1954  git branch -M main
+ 1955  git remote add origin git@github.com:shagorrobidas/django-rest-framework.git
+ 1956  git push -u origin main
+ 1957  git remote add origin git@github.com:shagorrobidas/django-rest-framework.git
+ 1958  git branch -M main
+ 1959  git push -u origin main
+ 1960  cd myapi/
+ 1961  ls
+ 1962  git add .
+ 1963  git init 
+ 1964  git add .
+ 1965  git commit -m "api "
+ 1966  git push 
+ 1967  git push --set-upstream origin main
+ 1968  git push --help
+ 1969  git push -f
+ 1970  git pull 
+ 1971  git pull origin main --rebase
+ 1972  git push origin main
+ 1973  /usr/bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1974  /bin/python3 /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/printEnvVariablesToFile.py /home/shagor/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1975  source venv/bin/activate
+ 1976  cd myapi/
+ 1977  ls
+ 1978  python manage.py runserver 
+ 1979  code .
+ 1980  deactive
+ 1981  dactive
+ 1982  deactivate
+ 1983  exit 
+ 1984  source venv/bin/activate 
+ 1985  code .
+ 1986  python manage.py runserver 0.0.0.0:5000
+ 1987  git add .
+ 1988  git commit -m "Add LoginRequiredMixin all view "
+ 1989  git push 
+ 1990  git checkout main && git pull && git checkout shagor && git merge main && git push && exit
+ 1991  git add .
+ 1992  git commit -m "Add LoginRequiredMixin all view "
+ 1993  git push 
+ 1994  exit
+ 1995  source venv/bin/activate
+ 1996  code .
+ 1997  python manage.py runserver 0.0.0.0:5000
+ 1998  curl -L -o ~/Downloads/bangladeshgeojson.zip  https://www.kaggle.com/api/v1/datasets/download/zarif98sjs/bangladeshgeojson
+ 1999  history
+ 2000  history > all_commands.txt
